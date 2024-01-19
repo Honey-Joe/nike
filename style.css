@@ -295,7 +295,7 @@ footer{
 }
 
 
-@media screen and (max-width:450px){
+@media screen and (min-width:350px){
     .l{
         display: none;
         /* position: absolute; */
@@ -382,11 +382,7 @@ footer{
         position: relative;
         color: orange;
     }
-    .a1{
-        /* position: absolute; */
-        /* margin-left: 4%; */
-        /* margin-top: 0.8%; */
-    }
+    
     
     .img img{
         /* margin-left: 0%; */
@@ -397,9 +393,7 @@ footer{
         /* left: -300px; */
     
     }
-    .hov{
-        /* margin-left:5%; */
-    }
+    
     
     .nike::-webkit-scrollbar-thumb{
         color: orange;
@@ -544,9 +538,7 @@ footer{
         padding: 200px;
         
     }
-    .about,.ne,.ins,.follow{
-        /* margin: 20px; */
-    }
+   
     #email{
         width: 120px;
         position: relative;
