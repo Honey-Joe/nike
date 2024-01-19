@@ -295,7 +295,7 @@ footer{
 }
 
 
-@media screen and (max-width:380px){
+@media screen and (max-width:430px){
     .l{
         display: none;
         /* position: absolute; */
